@@ -54,7 +54,3 @@ I will document my key learnings in `NOTES.md` for each section.
 
 ## 🤝 Contributions
 If you're also learning Java, feel free to fork the repo, add your own solutions, and submit a pull request! 🚀
-
----
-
-Let me know if you want modifications! 🚀🔥

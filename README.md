@@ -1,6 +1,6 @@
 # 🏆 Ultimate Java Series by Mosh Hamedani
 
-This repository contains my solutions and notes from the **Ultimate Java Series** by [Mosh Hamedani](https://codewithmosh.com/).
+This repository contains my solutions and notes from the **Ultimate Java Series** by [Mosh Hamedani Ultimate Java Course](https://codewithmosh.com/p/the-ultimate-java-mastery-series).
 
 ## 📖 Course Overview
 This course is designed to take you from **zero to hero** in Java programming. It covers:
@@ -25,7 +25,7 @@ Each course section has its own directory:
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Ultimate-Java-Series.git
+   git clone https://github.com/negarprh/Ultimate-Java-Series.git
    ```
 2. Navigate to a specific part:
    ```bash
@@ -40,8 +40,8 @@ Each course section has its own directory:
 ## 🔥 Progress Tracker
 | Section | Status |
 |---------|--------|
-| Fundamentals | ✅ Completed |
-| Object-Oriented Programming | 🔄 In Progress |
+| Fundamentals | 🔄 In Progress |
+| Object-Oriented Programming | ❌ Not Started |
 | Advanced Topics | ❌ Not Started |
 
 ## 🌟 Why This Course?
